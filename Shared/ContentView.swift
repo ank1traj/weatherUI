@@ -46,7 +46,7 @@ struct ContentView: View {
                 Button {
                     isNight.toggle()
                 } label: {
-                    buttonView(buttonText: "Change Day",
+                    buttonView(buttonText: "Change Theme",
                                backgroundColor: .white,
                                textColor: .blue,
                                buttonCornerRadius: 10)
